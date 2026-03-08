@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
-    color: #f31a1a;
+    color: #000000;
 }
 
 /* Navigation */
@@ -26,8 +26,8 @@ nav a:hover {
 
 /* Headers */
 header {
-    background-color: #000b00;
-    color: white;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
     padding: 30px;
     text-align: center;
 }
